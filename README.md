@@ -2,3 +2,5 @@
 
 #How to install
 ```Install-Package coolfield```
+
+#How to use
