@@ -25,4 +25,4 @@ All capital letters.
 If you want to leave all capital letters
 <br/>
 <br/>
-https://s10.postimg.org/vrh7dhsrd/upperCaseAllCode.png
+![alt tag](https://s10.postimg.org/vrh7dhsrd/upperCaseAllCode.png)
