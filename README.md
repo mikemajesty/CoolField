@@ -35,4 +35,6 @@ All letters lowercase.
 <br/>
 <br/>
 If you want to leave all letters lowercased.
+<br/>
+<br/>
 ![alt tag](https://s10.postimg.org/lrmaxlhi1/lowerCaseAllCode.png)
