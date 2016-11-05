@@ -1,11 +1,11 @@
 # CoolField - Manipulating string has never been easier.
 
-#How to install
+### How to install
 ```
   Install-Package coolfield
 ```
 
-#How to use
+### How to use
 
 ##### First letter upper case.
 
