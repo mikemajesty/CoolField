@@ -36,6 +36,6 @@
 [![5.png](https://s17.postimg.org/alu2bxgrz/image.png)](https://postimg.org/image/4xnrl1cff/)
 
 
-If you want to lowercase all letters.
+##### If you want to lowercase all letters.
 
 [![6.png](https://s17.postimg.org/u2erygbvz/image.png)](https://postimg.org/image/e4628bhnv/)
