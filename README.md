@@ -39,3 +39,11 @@
 ##### If you want to lowercase all letters.
 
 [![6.png](https://s17.postimg.org/u2erygbvz/image.png)](https://postimg.org/image/e4628bhnv/)
+
+<hr>
+### License
+
+It is available under the MIT license.
+[License](https://opensource.org/licenses/mit-license.php)
+
+Copyright (c) 2016 Mike Lima
